@@ -1,2 +1,4 @@
 # first-repo
-This is just for learning purpose.
+```
+print("Hello Wolrd")
+```
